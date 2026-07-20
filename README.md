@@ -43,19 +43,19 @@
 - Material Icons
 - Google Fonts
 
----
+Task3:
+tsk3:<img width="1691" height="677" alt="task 3" src="https://github.com/user-attachments/assets/36306634-ea33-4876-986d-282db7f43133" />
+p1:
+p1 <img width="305" height="668" alt="p1" src="https://github.com/user-attachments/assets/767f599a-acef-4b9b-984d-06642ae201f1" />
+p2:
+p2 <img width="298" height="660" alt="p2" src="https://github.com/user-attachments/assets/be6abd8c-4739-4dc2-b3ba-b09f0533f1b2" /> 
+p3:
+p3 <img width="302" height="657" alt="p3" src="https://github.com/user-attachments/assets/f180b810-a4d0-4049-bf2e-5a52e87b8c4b" />
+p4:
+<img width="301" height="668" alt="p4" src="https://github.com/user-attachments/assets/69374383-fe5d-4d99-a692-e06f52bbfc04" />
+p5:
+p5 <img width="303" height="668" alt="p5" src="https://github.com/user-attachments/assets/3ca6a496-2656-4b9b-8c50-68572ba9056a" />
 
-## 📂 Project Preview
-
-> Add your project preview image here.
-
----
-
-## 🔗 Figma Prototype
-
-> Add your Figma Prototype Link Here
-
----
 
 ## 👨‍💻 Designed By
 
